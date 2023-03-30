@@ -21,7 +21,7 @@ Change the start url in [src/index.html](src/index.html)
 <html>
   <head>
   <script>
-    window.location = 'http://localhost:5001/chroma_design.html';
+    window.location = 'https://chroma.razer.com/ChromaEditor/';
   </script>
   </head>
 </html>
