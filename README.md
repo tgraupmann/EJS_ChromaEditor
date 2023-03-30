@@ -6,6 +6,16 @@ Dedicated browser for working with the Web Chroma Editor
 
 [Electron Forge - Getting Started](https://www.electronforge.io/)
 
+## Dependencies
+
+* Install [NodeJS](https://nodejs.org/)
+
+Yarn
+
+```cli
+npm install --global yarn
+```
+
 ## Setup
 
 Create the EJS Forge Project.
