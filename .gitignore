@@ -85,6 +85,10 @@ typings/
 # Webpack
 .webpack/
 
+# Vite
+.vite/
+
 # Electron-Forge
 out/
+
 package-lock.json

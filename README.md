@@ -55,7 +55,7 @@ const createWindow = () => {
 Start the app to verify the application works
 
 ```cli
-CD EJS_ChromaEditor
+cd EJS_ChromaEditor
 npm start
 ```
 
